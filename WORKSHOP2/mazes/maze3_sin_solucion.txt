@@ -1,0 +1,1 @@
+{"result":{"content":"#########\n#A  #   #\n# # # # #\n#   #  B#\n#########\n","encoding":"utf-8","sha":"7d695c92cf192c0d7b3146dc8e7430a8a90ecc1a","display_url":"https://github.com/SarahGomez/IA_WorkShop/blob/main/WORKSHOP2/mazes/maze3_sin_solucion.txt","display_title":"maze3_sin_solucion.txt"}}
