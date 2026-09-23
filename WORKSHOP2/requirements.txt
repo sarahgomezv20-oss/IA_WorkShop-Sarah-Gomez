@@ -1,0 +1,1 @@
+{"result":{"content":"matplotlib>=3.7\nnumpy>=1.24\n","encoding":"utf-8","sha":"057269d63bc06d6a9f6bed91325b98405f7da338","display_url":"https://github.com/SarahGomez/IA_WorkShop/blob/main/WORKSHOP2/requirements.txt","display_title":"requirements.txt"}}
