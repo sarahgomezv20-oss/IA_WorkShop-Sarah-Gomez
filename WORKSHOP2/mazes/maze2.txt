@@ -1,0 +1,1 @@
+{"result":{"content":"###########\n#A    #   #\n# ### # # #\n#   # # # #\n### # # # #\n#   #   # #\n# ##### # #\n#      B# #\n###########\n","encoding":"utf-8","sha":"84404ef7a333d038c6f8ca4475459647c6cdf791","display_url":"https://github.com/SarahGomez/IA_WorkShop/blob/main/WORKSHOP2/mazes/maze2.txt","display_title":"maze2.txt"}}
