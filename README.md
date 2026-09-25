@@ -31,7 +31,3 @@ Actividades y workshops de Inteligencia Artificial (curso SI3003).
 - **WORKSHOP_WEEK8 — Machine Learning**
   - Regresión con DecisionTreeRegressor sobre California Housing.
 ```
-
-## Integridad académica
-
-Las soluciones y explicaciones fueron revisadas y validadas antes de incluirse en el repositorio. Cuando se utilizaron herramientas de IA generativa como apoyo, se emplearon como asistencia para comprender, revisar y depurar el trabajo, manteniendo la responsabilidad sobre el contenido entregado.
