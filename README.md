@@ -1,6 +1,6 @@
 # IA_WorkShop-Sarah-Gomez
 
-Repositorio personal de Sarah Gómez para las actividades y workshops de Inteligencia Artificial del curso SI3003.
+Actividades y workshops de Inteligencia Artificial (curso SI3003).
 
 ## Contenido
 
@@ -30,23 +30,6 @@ Repositorio personal de Sarah Gómez para las actividades y workshops de Intelig
 
 - **WORKSHOP_WEEK8 — Machine Learning**
   - Regresión con DecisionTreeRegressor sobre California Housing.
-
-## Relación con el repositorio oficial
-
-El repositorio oficial del curso es:
-
-https://github.com/EAFIT-IA/si3003-artificial-intelligence
-
-El material de este repositorio personal se organiza por tema y conserva las actividades desarrolladas para el curso. El repositorio oficial enfatiza tanto la comprensión conceptual como la implementación y establece criterios de corrección verificables para los proyectos.
-
-## Reproducibilidad
-
-Las dependencias generales se encuentran en `requirements.txt`. Algunas actividades pueden incluir además un `requirements.txt` específico dentro de su carpeta.
-
-Para instalar las dependencias generales:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ## Integridad académica
