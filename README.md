@@ -1,15 +1,5 @@
 # IA_WorkShop-Sarah-Gomez
 
-Repositorio de **Sarah Gómez** para los ejercicios y talleres de Inteligencia Artificial.
-
-## Autora
-
-**Sarah Gómez**
-
-## Contenido
-
-El repositorio conserva los ejercicios del proyecto original, manteniendo el mismo orden, notebooks, archivos de código y archivos auxiliares.
-
 ### WORKSHOP1 — Algoritmos de búsqueda en grafos
 - `02_algoritmos_busqueda_grafo.ipynb`
 - `search_algorithms.py`
@@ -42,30 +32,7 @@ El repositorio conserva los ejercicios del proyecto original, manteniendo el mis
 ### WORKSHOP_WEEK8 — Machine Learning
 - `ML_exercise.ipynb`
 
-## Estructura
 
-```text
-IA_WorkShop-Sarah-Gomez/
-├── README.md
-├── WORKSHOP1/
-├── WORKSHOP2/
-│   └── mazes/
-├── WORKSHOP3/
-├── WORKSHOP6/
-├── WORKSHOP6_2/
-├── WORKSHOP_WEEK7/
-└── WORKSHOP_WEEK8/
-```
-
-## Uso
-
-Los archivos `.ipynb` pueden abrirse directamente con **Jupyter Notebook**, **JupyterLab** o **Google Colab**.
-
-Para el `WORKSHOP2`, instala las dependencias indicadas en su archivo `requirements.txt`:
-
-```bash
-pip install -r WORKSHOP2/requirements.txt
-```
 
 ## Repositorio
 
