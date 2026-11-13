@@ -1,6 +1,6 @@
 # IA_WorkShop-Sarah-Gomez
 
-Actividades y workshops de Inteligencia Artificial (curso SI3003).
+Actividades y workshops de Inteligencia Artificial.
 
 ## Contenido
 
@@ -37,20 +37,4 @@ Actividades y workshops de Inteligencia Artificial (curso SI3003).
   - Ejercicio de Machine Learning de la semana.
 
 - **WORKSHOP_WEEK13 — Deep Learning y modelos generativos**
-  - Ejercicio resuelto de NVIDIA sobre documentos.
-
-## Material de referencia adicional
-
-Se incorporaron los notebooks que faltaban y que pudieron copiarse directamente desde el repositorio de referencia [JulianJ07/IA_WorkShop](https://github.com/JulianJ07/IA_WorkShop). Los archivos de gran tamaño y el PDF de referencia no se han añadido todavía; no se presentan como parte de esta copia.
-
-## Reproducibilidad
-
-Las dependencias generales están en `requirements.txt`. Algunas actividades incluyen dependencias específicas en su propia carpeta. Para instalar las dependencias generales:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Integridad académica
-
-Este repositorio reúne material de trabajo y ejercicios del curso. Se conserva la procedencia del material de referencia y cada actividad debe revisarse, ejecutarse y comprenderse antes de su entrega.
+  -NVIDIA 
